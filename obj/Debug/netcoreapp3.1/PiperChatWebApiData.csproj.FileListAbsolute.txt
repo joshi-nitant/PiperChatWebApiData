@@ -1,0 +1,12 @@
+D:\College\Sem 6\SOC\WebApiProject\PiperChatWebApiData\bin\Debug\netcoreapp3.1\PiperChatWebApiData.deps.json
+D:\College\Sem 6\SOC\WebApiProject\PiperChatWebApiData\bin\Debug\netcoreapp3.1\PiperChatWebApiData.runtimeconfig.json
+D:\College\Sem 6\SOC\WebApiProject\PiperChatWebApiData\bin\Debug\netcoreapp3.1\PiperChatWebApiData.runtimeconfig.dev.json
+D:\College\Sem 6\SOC\WebApiProject\PiperChatWebApiData\bin\Debug\netcoreapp3.1\PiperChatWebApiData.dll
+D:\College\Sem 6\SOC\WebApiProject\PiperChatWebApiData\bin\Debug\netcoreapp3.1\PiperChatWebApiData.pdb
+D:\College\Sem 6\SOC\WebApiProject\PiperChatWebApiData\obj\Debug\netcoreapp3.1\PiperChatWebApiData.csprojAssemblyReference.cache
+D:\College\Sem 6\SOC\WebApiProject\PiperChatWebApiData\obj\Debug\netcoreapp3.1\PiperChatWebApiData.AssemblyInfoInputs.cache
+D:\College\Sem 6\SOC\WebApiProject\PiperChatWebApiData\obj\Debug\netcoreapp3.1\PiperChatWebApiData.AssemblyInfo.cs
+D:\College\Sem 6\SOC\WebApiProject\PiperChatWebApiData\obj\Debug\netcoreapp3.1\PiperChatWebApiData.csproj.CoreCompileInputs.cache
+D:\College\Sem 6\SOC\WebApiProject\PiperChatWebApiData\obj\Debug\netcoreapp3.1\PiperChatWebApiData.dll
+D:\College\Sem 6\SOC\WebApiProject\PiperChatWebApiData\obj\Debug\netcoreapp3.1\PiperChatWebApiData.pdb
+D:\College\Sem 6\SOC\WebApiProject\PiperChatWebApiData\obj\Debug\netcoreapp3.1\PiperChatWebApiData.genruntimeconfig.cache
