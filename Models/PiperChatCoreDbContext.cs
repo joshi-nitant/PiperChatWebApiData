@@ -57,6 +57,10 @@ namespace PiperChatWebApiData.Models
             {
                 entity.ToTable("Message");
 
+                entity.Property(e => e.Avatar)
+                    .HasMaxLength(300)
+                    .IsUnicode(false);
+
                 entity.Property(e => e.Message1)
                     .IsRequired()
                     .HasMaxLength(3000)

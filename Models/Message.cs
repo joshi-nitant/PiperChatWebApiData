@@ -12,6 +12,7 @@ namespace PiperChatWebApiData.Models
         public int ReceiverId { get; set; }
         public string Message1 { get; set; }
         public DateTime? MessageTime { get; set; }
+        public string Avatar { get; set; }
 
         public virtual ChatUser Receiver { get; set; }
         public virtual ChatUser Sender { get; set; }

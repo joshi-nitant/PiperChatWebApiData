@@ -18,7 +18,7 @@ namespace PiperChatWebApiData.Models
         public string Email { get; set; }
         public string Password { get; set; }
         public string Avatar { get; set; }
-
+        public string PublicKey { get; set; }
         public virtual ICollection<Message> MessageReceivers { get; set; }
         public virtual ICollection<Message> MessageSenders { get; set; }
     }
