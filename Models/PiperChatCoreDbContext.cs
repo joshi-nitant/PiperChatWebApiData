@@ -24,7 +24,7 @@ namespace PiperChatWebApiData.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Name=ConnectionStrings:Chinook");
+                optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=PiperChatCoreDb;Integrated Security=True;");
             }
         }
 

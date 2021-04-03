@@ -5,7 +5,7 @@ using System.Text;
 
 namespace PiperChatWebApiData.Interfaces
 {
-    interface IChatMessage
+    public interface IChatMessage
     {
         public List<Message> GetChatMessageOfUser(int userId);
         public Message AddChatMessage(Message chatMessage);

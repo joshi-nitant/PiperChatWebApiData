@@ -5,13 +5,12 @@ using System.Text;
 
 namespace PiperChatWebApiData.Interfaces
 {
-    interface IChatUser
+    public interface IChatUser
     {
-      
-
         public List<ChatUser> GetChatUsers();
         public ChatUser GetChatUser(int chatUserId);
-        public ChatUser AddChatUser(ChatUser chatUser);
+        public void AddChatUser(ChatUser chatUser);
+        public ChatUser LoginUser(ChatUser chatUser);
 
     }
 }
